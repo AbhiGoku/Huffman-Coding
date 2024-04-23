@@ -1,5 +1,5 @@
 # Huffman-Coding
-Huffman coding - In this I have build a coding and decoding text file.
+Huffman coding - In this I have written a code for compressing and decompressing a text file.
 
 2 ways of excuting this code.
 
